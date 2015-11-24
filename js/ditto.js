@@ -6,7 +6,7 @@ var ditto = {
     back_to_top_id: "#back_to_top",
     loading_id: "#loading",
     error_id: "#error",
-
+    //yangyiliang
     // display elements
     sidebar: true,
     edit_button: true,
@@ -16,7 +16,7 @@ var ditto = {
     // initialize function
     run: initialize
 };
-
+//yangyiling tianjia
 var disqusCode = '<h3>留言</h3><div id="disqus_thread"></div>';
 var menu = new Array();
 
